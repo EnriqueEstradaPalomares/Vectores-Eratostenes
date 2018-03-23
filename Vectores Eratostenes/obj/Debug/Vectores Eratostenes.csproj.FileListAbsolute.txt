@@ -1,0 +1,10 @@
+C:\Users\JoséEnrique\source\repos\Vectores Eratostenes\Vectores Eratostenes\bin\Debug\Vectores Eratostenes.exe.config
+C:\Users\JoséEnrique\source\repos\Vectores Eratostenes\Vectores Eratostenes\bin\Debug\Vectores Eratostenes.exe
+C:\Users\JoséEnrique\source\repos\Vectores Eratostenes\Vectores Eratostenes\bin\Debug\Vectores Eratostenes.pdb
+C:\Users\JoséEnrique\source\repos\Vectores Eratostenes\Vectores Eratostenes\obj\Debug\Vectores Eratostenes.csprojResolveAssemblyReference.cache
+C:\Users\JoséEnrique\source\repos\Vectores Eratostenes\Vectores Eratostenes\obj\Debug\Vectores_Eratostenes.Form1.resources
+C:\Users\JoséEnrique\source\repos\Vectores Eratostenes\Vectores Eratostenes\obj\Debug\Vectores_Eratostenes.Properties.Resources.resources
+C:\Users\JoséEnrique\source\repos\Vectores Eratostenes\Vectores Eratostenes\obj\Debug\Vectores Eratostenes.csproj.GenerateResource.Cache
+C:\Users\JoséEnrique\source\repos\Vectores Eratostenes\Vectores Eratostenes\obj\Debug\Vectores Eratostenes.csproj.CoreCompileInputs.cache
+C:\Users\JoséEnrique\source\repos\Vectores Eratostenes\Vectores Eratostenes\obj\Debug\Vectores Eratostenes.exe
+C:\Users\JoséEnrique\source\repos\Vectores Eratostenes\Vectores Eratostenes\obj\Debug\Vectores Eratostenes.pdb
